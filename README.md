@@ -2,7 +2,7 @@
 <p align="left">
 </p>
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm4wa2twM3d3dzVoNGpjcmdrd2M0cGJpN3R4N3ZocWdma3Rxd213YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="700">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm4wa2twM3d3dzVoNGpjcmdrd2M0cGJpN3R4N3ZocWdma3Rxd213YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300">
 </p>
 
 <h3 align="left">Currently learning 👩🏻‍💻 :</h3>
